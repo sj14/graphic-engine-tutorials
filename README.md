@@ -1,12 +1,13 @@
 # Graphic Engine Tutorials
+
 A curated list of tutorials on how to build graphic engines. Please open issues or pull requests to keep this list updated.
 
 ## Multiple Implementations (Rasterization/Ray Tracing etc)
 
-
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
 | [Scratch a Pixel](https://www.scratchapixel.com/) Very detailed and book-like tutorial with illustrations and 32 lessons | Text | Beginner - Intermediate | Win/Linux/Mac | C++ | |
+| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) EdX/UC San Diego video course (rasterization and raytracer) | MOOC | Intermediate | Win/Linux/Mac | C++ | OpenGL |
 
 ## Rasterization
 
@@ -19,15 +20,15 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 | [Game Engine Development](https://www.youtube.com/playlist?list=PLRwVmtr-pp04XomGtm-abzb-2M1xszjFx) 200 smaller (~10 min.) videos | Video |  Beginner | Win | C++ | OpenGL, Qt |
 | [3D Graphics Engine](https://www.youtube.com/watch?v=ih20l3pJoeU&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO) 4 part video series on creating a windows console 3d engine | Video | Beginner | Win | C++ | |
 
-
 ## Ray Tracing
 
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
-| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) EdX/UC San Diego video course | MOOC | Intermediate | Win/Linux/Mac | C++ | OpenGL |
+| [Ray-Tracer in C++ from scratch](https://medium.com/farouk-ounanes-home-on-the-internet/ray-tracer-in-c-from-scratch-e013269884b6) | Text | Beginner | Win/Linux/Mac | C++ |  |
 
 ## Voxel
 
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
 | [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/home) | Text | Advanced |  | C++ |  |
+| [Java Voxel Engine Tutorial](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) | Video |  |  | Java | OpenGL 3+ |
