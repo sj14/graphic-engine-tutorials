@@ -26,6 +26,7 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
 | [Ray-Tracer in C++ from scratch](https://medium.com/farouk-ounanes-home-on-the-internet/ray-tracer-in-c-from-scratch-e013269884b6) | 📝 | Beginner | Win/Linux/Mac | C++ |  |
+| [Ray Tracing in One Weekend](https://raytracing.github.io/) A series of 3 books | 📝 | Beginner - Advanced | Win/Linux/Mac | C++ |  |
 
 ## Voxel
 
