@@ -7,8 +7,8 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
 | [Scratch a Pixel](https://www.scratchapixel.com/) Very detailed and book-like tutorial with illustrations and 32 lessons | 📝 | Beginner - Intermediate | Win/Linux/Mac | C++ | |
-| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) EdX/UC San Diego MOOC video course (rasterization and raytracer) | 🎓 | Intermediate | Win/Linux/Mac | C++ | OpenGL |
 | [Computer Graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) Write a software renderer from scatch with the two main parts of ray tracing and rasterization | 📝 | Beginner - Intermediate | Win/Linux/Mac | HTML/JavaScript | |
+| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) EdX/UC San Diego MOOC video course (rasterization and raytracer) | 🎓 | Intermediate | Win/Linux/Mac | C++ | OpenGL |
 
 ## Rasterization
 
@@ -18,6 +18,7 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 | [OpenGL 4.0 Tutorials](http://www.rastertek.com/tutgl40.html) 9 chapters tutorial | 📝 | Beginner | Win | C++ | OpenGL 4 |
 | [Learn OpenGL](https://learnopengl.com) Website or book (514 pages!) from the getting-started to very advanced topics | 📝 | Beginner - Advanced | Win/Linux | C++ | OpenGL 3.3 |
 | [OGL Dev](http://ogldev.atspace.co.uk) 53 tutorials covering many topics | 📝 | Beginner - Advanced | Win/Linux/Mac | C++ | OpenGL 3/4 and Vulkan |
+| [open.gl](https://open.gl/) Basic usage of OpenGL without deprecated functions like `glBegin` and `glLight` | 📝 | Beginner | Win/Linux/Mac | C++ | OpenGL, SFML, GLFW, SDL|
 | [Game Engine Development](https://www.youtube.com/playlist?list=PLRwVmtr-pp04XomGtm-abzb-2M1xszjFx) 200 smaller (~10 min.) videos | 🎞️ |  Beginner | Win | C++ | OpenGL, Qt |
 | [3D Graphics Engine](https://www.youtube.com/watch?v=ih20l3pJoeU&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO) 4 part video series on creating a windows console 3d engine | 🎞️ | Beginner | Win | C++ | |
 
