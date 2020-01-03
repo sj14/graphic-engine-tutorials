@@ -34,5 +34,6 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 
 | Tutorial | Type | Level | OS | PL | API |
 |----------|------|-------|----|----|-----|
+| [VoxelSpace](https://github.com/s-macke/VoxelSpace) Terrain rendering algorithm in less than 20 lines of code | 📝 |  | Win/Linux/Mac | Python |  |
 | [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/home) | 📝 | Advanced |  | C++ |  |
 | [Java Voxel Engine Tutorial](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) | 🎞️ |  |  | Java | OpenGL 3+ |
