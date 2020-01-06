@@ -29,6 +29,9 @@ A curated list of tutorials on how to build graphic engines. Please open issues 
 |----------|------|-------|----|----|-----|
 | [Ray-Tracer in C++ from scratch](https://medium.com/farouk-ounanes-home-on-the-internet/ray-tracer-in-c-from-scratch-e013269884b6) | 📝 | Beginner | Win/Linux/Mac | C++ |  |
 | [Ray Tracing in One Weekend](https://raytracing.github.io/) A series of 3 books | 📝 | Beginner - Advanced | Win/Linux/Mac | C++ |  |
+| [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/) | 📝 | Intermediate | Win/Linux/Mac | Rust/Zig |  |
+
+
 
 ## Voxel
 
